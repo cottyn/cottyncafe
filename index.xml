@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Molly&#39;s Cafe ☕</title>
+    <link>https://molly.cafe/</link>
+    <description>Recent content in Home on Molly&#39;s Cafe ☕</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Nov 2024 01:54:33 -0500</lastBuildDate>
+    <atom:link href="https://molly.cafe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meeting new people</title>
+      <link>https://molly.cafe/posts/meeting_friends/</link>
+      <pubDate>Mon, 25 Nov 2024 01:54:33 -0500</pubDate>
+      <guid>https://molly.cafe/posts/meeting_friends/</guid>
+      <description>&lt;p&gt;Meeting new people is rough sometimes, especially for a chronically online introvert shut-in like myself. On the internet there’s so many different people from differing cultures, backgrounds, everything, so sometimes it feels like you can never really know who you’re talking to unless you meet them face to face, and that alone is a huge coin flip. They could be exactly who you thought they were, and they act the same way they do in-person as they did on the internet, or they can be a psychopathic freak who collects pill bug corpses and shit.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Welcome</title>
+      <link>https://molly.cafe/posts/welcome/</link>
+      <pubDate>Fri, 22 Nov 2024 21:11:43 -0500</pubDate>
+      <guid>https://molly.cafe/posts/welcome/</guid>
+      <description>&lt;p&gt;Hello! You either found my site through one of my socials, or I shamelessly shilled it to you in excitement. Regardless, I&amp;rsquo;m thrilled you&amp;rsquo;re here!&lt;/p&gt;&#xA;&lt;p&gt;This site took a while to get up and running. Mainly because of bouts of random demotivation, but also because setting up a website is &lt;em&gt;much&lt;/em&gt; more work than I was expecting. In all honesty, I thought getting a cute domain would be the difficult part, turns out it was just 6 bucks.&#xA;I&amp;rsquo;m honestly really impressed by people who manage to do this shit from scratch, it&amp;rsquo;s probably a nightmare.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Artwork</title>
+      <link>https://molly.cafe/artwork/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://molly.cafe/artwork/</guid>
+      <description>&lt;p&gt;Here is some artwork of my character August!&lt;/p&gt;&#xA;&lt;p&gt;(WIP Art gallery will probably use something like &lt;a href=&#34;https://www.lightgalleryjs.com/&#34;&gt;Light Gallery&lt;/a&gt; in the future!)&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://molly.cafe/images/artwork/August2.png&#34; alt=&#34;August&#34; title=&#34;waow its her holy shit!!&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://molly.cafe/images/artwork/august.png&#34; alt=&#34;August2&#34; title=&#34;holy shit its still her&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Socials</title>
+      <link>https://molly.cafe/socials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://molly.cafe/socials/</guid>
+      <description>&lt;p&gt;Hey east :3&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://steamcommunity.com/profiles/76561198083063978&#34; title=&#34;Steam&#34;&gt;Steam&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://bsky.app/profile/kaydbat.bsky.social&#34; title=&#34;B.Sky&#34;&gt;B.Sky&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://x.com/Kaydbat&#34; title=&#34;Twitter | X&#34;&gt;Twitter | X&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/@Kaydbat&#34; title=&#34;Youtube&#34;&gt;Youtube&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
