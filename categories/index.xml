@@ -6,20 +6,20 @@
     <description>Recent content in Categories on Molly&#39;s Cafe ☕</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jan 2025 18:09:05 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 20:20:54 -0500</lastBuildDate>
     <atom:link href="https://molly.cafe/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Ramblings</title>
-      <link>https://molly.cafe/categories/ramblings/</link>
-      <pubDate>Tue, 07 Jan 2025 18:09:05 -0500</pubDate>
-      <guid>https://molly.cafe/categories/ramblings/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Games</title>
       <link>https://molly.cafe/categories/games/</link>
       <pubDate>Fri, 29 Nov 2024 20:20:54 -0500</pubDate>
       <guid>https://molly.cafe/categories/games/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ramblings</title>
+      <link>https://molly.cafe/categories/ramblings/</link>
+      <pubDate>Fri, 29 Nov 2024 20:20:54 -0500</pubDate>
+      <guid>https://molly.cafe/categories/ramblings/</guid>
       <description></description>
     </item>
   </channel>
